@@ -45,3 +45,15 @@ ul.posts li {
 ul.posts li {
     list-style: none;
 }
+
+@media screen and (min-width:480px) {
+h1 {
+    font-size: 1em;
+    font-family:'Helvetica', 'Arial', 'Sans-Serif';
+}
+p {
+    font-size: 0.5em;
+    line-height: 0.7em;
+    color: #333;
+}
+        
