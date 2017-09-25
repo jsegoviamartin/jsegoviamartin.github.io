@@ -51,11 +51,11 @@ ul.posts li {
 
 @media only screen and (max-width:480px) {
 h1 {
-    font-size: 12px;
+    font-size: 14px;
     font-family:'Helvetica', 'Arial', 'Sans-Serif';
 }
 p {
-    font-size: 10em;
+    font-size: 12em;
     line-height: 0.7em;
     color: #333;
 }
