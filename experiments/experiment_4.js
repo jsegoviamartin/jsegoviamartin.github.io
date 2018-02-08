@@ -27,7 +27,7 @@ jsPsych.init({
 });
 
 function saveData(name, data){
-    var url = 'record_result.php';
+    var url = 'record_results.php';
     var data = {filename: name, filedata: data};
     fetch(url, {
         method: 'POST',
