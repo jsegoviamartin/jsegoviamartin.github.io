@@ -20,7 +20,20 @@ var trials_with_variables = {
 
 jsPsych.init({
     timeline: [trials_with_variables],
-    on_finish: function() {
-        jsPsych.data.displayData();
+    on_finish: function(){
+        var experiment_data = jsPsych.data.get();
+        saveData("test.csv", experiment_data.csv());
     }
 });
+
+function saveData(name, data){
+    var url = 'record_result.php';
+    var data = {filename: name, filedata: data};
+    fetch(url, {
+        method: 'POST',
+        body: JSON.stringify(data),
+        headers: new Headers({
+                'Content-Type': 'application/json'
+        })
+    });
+}
