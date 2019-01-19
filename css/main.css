@@ -25,6 +25,7 @@ body, html {
         border-collapse: collapse;
         text-align: center;
         vertical-align: middle;
+        margin: 60px auto;
 }
 
 .middlepane {
