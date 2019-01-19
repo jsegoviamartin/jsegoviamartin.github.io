@@ -22,6 +22,7 @@ body, html {
         float: left;
         background-color: #f6fafa;
         border-collapse: collapse;
+        text-align: center;
 }
 
 .middlepane {
@@ -39,6 +40,7 @@ body, html {
       float: right;
       background-color: #f6fafa;
       border-collapse: collapse;
+      text-align: center;
 }
 
 
