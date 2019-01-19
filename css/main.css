@@ -24,6 +24,7 @@ body, html {
         border-collapse: collapse;
         text-align: center;
         vertical-align: middle;
+        margin: 60px auto;
 }
 
 .middlepane {
@@ -43,6 +44,7 @@ body, html {
       border-collapse: collapse;
       text-align: center;
       vertical-align: middle;
+      margin: 60px auto;
 }
 
 
@@ -102,11 +104,4 @@ p {
     font-size: 12em;
     line-height: 0.7em;
     color: #333;
-}
-
-.center {
-  display: block;
-  margin-left: auto;
-  margin-right: auto;
-  width: 50%;
 }
