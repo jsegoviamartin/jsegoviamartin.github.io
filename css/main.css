@@ -23,6 +23,7 @@ body, html {
         background-color: #f6fafa;
         border-collapse: collapse;
         text-align: center;
+        vertical-align: middle
 }
 
 .middlepane {
@@ -41,6 +42,7 @@ body, html {
       background-color: #f6fafa;
       border-collapse: collapse;
       text-align: center;
+      vertical-align: middle
 }
 
 
