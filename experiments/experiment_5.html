@@ -1,0 +1,70 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Test1</title>
+        <script src="jspsych-6.0.1/jspsych.js"></script>
+        <script src="jspsych-6.0.1/plugins/jspsych-html-keyboard-response.js"></script>
+        <link href="jspsych-6.0.1/css/jspsych.css" rel="stylesheet" type="text/css"></link>
+    </head>
+    <body></body>
+    <script>
+
+    // code goes here!
+
+    var result = 123+"hi";
+    window.alert(result);
+
+    var the_number = 15;
+
+    if (the_number > 10) {
+        window.alert("the number is greater than 10");
+    } else {
+        window.alert("the number is less than or equal to 10");
+    }
+
+    for (var i=1; i<6; i++) {
+        window.alert("The number is "+i);
+    };
+
+    var vegetables = ["Carrot", "Cabbage", "Parsnip", "Potato"];
+    window.alert(vegetables[2]);
+
+    var vegetables = ["Carrot", "Cabbage", "Parsnip", "Potato"];
+    for (var veg of vegetables) {
+    window.alert("I'm eating a "+veg);
+   };
+
+    var vegetables = ["Carrot", "Cabbage", "Parsnip", "Potato"];
+    for (var i=0; i<vegetables.length; i++) {
+        window.alert("I'm eating a "+vegetables[i]);
+    };
+
+    var nodes1 = []
+    for (var i=1; i<11; i++) {
+        var node = {
+            type: 'html-keyboard-response',
+            stimulus: i,
+            trial_duration: 500,
+            response_ends_trial: false
+        }
+        nodes1.push(node);
+    }
+
+    var sentence = ["I", "like", "art", "therapy"]
+    var nodes2 = []
+    for (var word of sentence) {
+      var node = {
+        type: 'html-keyboard-response',
+        stimulus: word,
+        trial_duration: 500,
+        response_ends_trial: false
+      }
+      nodes2.push(node);
+    }
+
+   jsPsych.init({
+        timeline: nodes2,
+    });
+
+    </script>
+</html>

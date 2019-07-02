@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Test1</title>
+        <script src="jspsych-6.0.1/jspsych.js"></script>
+        <script src="jspsych-6.0.1/plugins/jspsych-html-keyboard-response.js"></script>
+        <script src="jspsych-6.0.1/plugins/jspsych-survey-text.js"></script>
+        <link href="jspsych-6.0.1/css/jspsych.css" rel="stylesheet" type="text/css"></link>
+    </head>
+    <body></body>
+    <script>
+
+    // code goes here!
+    /* create timeline */
+    var timeline = [];
+
+    var sentence = ["I", "like", "art", "therapy"]
+    var nodes = []
+    for (var word of sentence) {
+      var node = {
+        type: 'html-keyboard-response',
+        stimulus: word,
+        trial_duration: 500,
+        response_ends_trial: false
+      }
+      nodes.push(node);
+    }
+    timeline = timeline.concat(nodes);
+
+    var survey_trial = {
+      type: 'survey-text',
+      questions: [{prompt: "How old are you?"}],
+     };
+     timeline.push(survey_trial);
+
+    jsPsych.init({
+      timeline: timeline,
+      on_finish: function() {
+        jsPsych.data.displayData();
+      }
+    });
+  </script>
+</html>

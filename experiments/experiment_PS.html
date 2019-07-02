@@ -1,0 +1,85 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>My experiment</title>
+    <script src="jspsych-6.0.1/jspsych.js"></script>
+    <script src="jspsych-6.0.1/plugins/jspsych-html-keyboard-response.js"></script>
+    <script src="jspsych-6.0.1/plugins/jspsych-image-keyboard-response.js"></script>
+    <script src="jspsych-6.0.1/plugins/jspsych-image-button-response.js"></script>
+    <link href="jspsych-6.0.1/css/jspsych.css" rel="stylesheet" type="text/css"></link>
+  </head>
+  <body></body>
+  <div>
+  <script>
+
+    /* create timeline */
+    var timeline = [];
+
+    /* define welcome message trial */
+    var welcome = {
+      type: "html-keyboard-response",
+      stimulus: "Bienvenido al experimento. Pulsa una tecla para empezar."
+    };
+    timeline.push(welcome);
+
+    /* define instructions trial */
+    var instructions = {
+      type: "html-keyboard-response",
+      stimulus: "<p>En este experimento vas a jugar al dilema del prisionero. </p>" +
+      "<p>Cuantos más puntos obtiene un preso antes saldrá de la cárcel </p>" +
+          "<p> Si ambos cooperáis, ambos ganaréis 2 puntos. </p>" +
+          "<p> Si ambos os traicionáis, ambos ganaréis 1 punto. </p>" +
+          "<p> Si tú cooperas, y tu compañero traiciona, ganarás 0 puntos. </p>" +
+          "<p> Si tú traicionas, y tu compañero coopera, ganarás 3 puntos. </p>" +
+                "<p>Pulsa una tecla para comenzar.</p>",
+      post_trial_gap: 2000
+    };
+    timeline.push(instructions);
+
+    /* trial 1 */
+    var trial = {
+        type: 'image-button-response',
+        stimulus: 'experiment_PS_files/payoff_matrix.jpg',
+        choices: ['Cooperar', 'Traicionar'],
+        prompt: "<p>¿Qué eliges?</p>"
+};
+    timeline.push(trial);
+
+    /* start the experiment */
+    jsPsych.init({
+      timeline: timeline
+    });
+
+  </script>
+</div>
+<div>
+  <h1>What is your choice?</h1><br>
+  <form id="d1">
+  <input type="radio" name="choice" value="Cooperate"> Cooperate
+  <input type="radio" name="choice" value="Betray"> Betray
+  </form>
+  <button onclick="submitAnswer(d1.choice.value, 'Scripting')">Submit Answer</button>
+  <script>
+  var submitAnswer = function() {
+
+    var radios = document.getElementsByName('choice');
+    var val= "";
+    for (var i = 0, length = radios.length; i < length; i++) {
+        if (radios[i].checked) {
+           val = radios[i].value;
+           break;
+         }
+    }
+
+    if (val == "" ) {
+      alert('please select choice answer');
+    } else if ( val == "Scripting" ) {
+      alert('Answer is correct !');
+    } else {
+      alert('Answer is wrong');
+    }
+  };
+
+  </script>
+</div>
+</html>
