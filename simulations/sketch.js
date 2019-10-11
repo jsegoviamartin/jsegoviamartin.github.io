@@ -4,9 +4,9 @@ let myFont;
 
 
 function preload(){
-    s1 = new Sim("institution 1",16, 30,30,"https://raw.githubusercontent.com/AshaSato/PhD-Snippets/master/inst1_16.csv");
-    s2 = new Sim("institution 2",16, 440,30,"https://raw.githubusercontent.com/AshaSato/PhD-Snippets/master/inst2_16.csv");
-    s3 = new Sim("institution 2",16, 840,30,"https://raw.githubusercontent.com/AshaSato/PhD-Snippets/master/inst3_16.csv");
+    s1 = new Sim("High Institutional Reinforcement",16, 30,30,"https://raw.githubusercontent.com/AshaSato/PhD-Snippets/master/inst1_16.csv");
+    s2 = new Sim("Mid Institutional Reinforcement",16, 440,30,"https://raw.githubusercontent.com/AshaSato/PhD-Snippets/master/inst2_16.csv");
+    s3 = new Sim("Low Institutional Reinforcement",16, 840,30,"https://raw.githubusercontent.com/AshaSato/PhD-Snippets/master/inst3_16.csv");
     s4 = new Sim("low inequality",16, 30,380,"https://raw.githubusercontent.com/AshaSato/PhD-Snippets/master/inst_low_ineq.csv");
     s5 = new Sim("mid inequality",16,440,380,"https://raw.githubusercontent.com/AshaSato/PhD-Snippets/master/inst_mid_ineq.csv");
     s6 = new Sim("high inequality",16,840,380,"https://raw.githubusercontent.com/AshaSato/PhD-Snippets/master/inst_high_ineq.csv");
