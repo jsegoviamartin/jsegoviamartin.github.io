@@ -4,12 +4,12 @@ let myFont;
 
 
 function preload(){
-    s1 = new Sim("High Institutional Reinforcement",16, 30,30,"https://raw.githubusercontent.com/AshaSato/PhD-Snippets/master/inst1_16.csv");
-    s2 = new Sim("Mid Institutional Reinforcement",16, 440,30,"https://raw.githubusercontent.com/AshaSato/PhD-Snippets/master/inst2_16.csv");
-    s3 = new Sim("Low Institutional Reinforcement",16, 840,30,"https://raw.githubusercontent.com/AshaSato/PhD-Snippets/master/inst3_16.csv");
-    s4 = new Sim("High Inequality (Gini=1)",16, 30,380,"https://raw.githubusercontent.com/AshaSato/PhD-Snippets/master/inst_high_ineq.csv");
-    s5 = new Sim("Mid Inequality (Gini=0.5)",16,440,380,"https://raw.githubusercontent.com/AshaSato/PhD-Snippets/master/inst_mid_ineq.csv");
-    s6 = new Sim("Low Inequality (Gini=0)",16,840,380,"https://raw.githubusercontent.com/AshaSato/PhD-Snippets/master/inst_low_ineq.csv");
+    s1 = new Sim("Content bias = 1",16, 30,30,"https://raw.githubusercontent.com/AshaSato/PhD-Snippets/master/inst1_16.csv");
+    s2 = new Sim("Content bias = 0.5",16, 440,30,"https://raw.githubusercontent.com/AshaSato/PhD-Snippets/master/inst2_16.csv");
+    s3 = new Sim("Content bias = 0",16, 840,30,"https://raw.githubusercontent.com/AshaSato/PhD-Snippets/master/inst3_16.csv");
+    s4 = new Sim("Early connectivity",16, 30,380,"https://raw.githubusercontent.com/AshaSato/PhD-Snippets/master/inst_high_ineq.csv");
+    s5 = new Sim("Mid connectivity",16,440,380,"https://raw.githubusercontent.com/AshaSato/PhD-Snippets/master/inst_mid_ineq.csv");
+    s6 = new Sim("Late connectivity",16,840,380,"https://raw.githubusercontent.com/AshaSato/PhD-Snippets/master/inst_low_ineq.csv");
 }
 
 function setup() {
