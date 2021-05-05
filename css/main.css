@@ -6,9 +6,9 @@ body {
 } */
 
 body, html {
-      width: 75%;
-      height: 75%;
-      margin-bottom: 50px;
+      width: 95%;
+      height: 95%;
+      margin-bottom: 120px;
 }
 
 .container {
@@ -16,6 +16,7 @@ body, html {
       height: 95%;
       margin: 60px auto;
       text-align: center;
+      padding-bottom: 50px;
 }
 
 .leftpane {
