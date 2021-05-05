@@ -79,6 +79,7 @@ p {
     text-align: justify;
 }
 footer {
+    position: absolute;
     border-top: 1px solid #d5d5d5;
     font-size: .8em;
 }
