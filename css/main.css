@@ -84,7 +84,7 @@ footer {
     font-size: .8em;
     height: 30%;
     width: 100%;
-    position: absolute;
+    position: fixed;
 }
 
 ul.posts {
