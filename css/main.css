@@ -15,6 +15,7 @@ body, html {
       height: 95%;
       margin: 60px auto;
       text-align: center;
+      position: relative;
 }
 
 .leftpane {
@@ -79,7 +80,7 @@ p {
     text-align: justify;
 }
 footer {
-    position: relative;
+    position: absolute;
     border-top: 1px solid #d5d5d5;
     font-size: .8em;
 }
