@@ -81,14 +81,14 @@ p {
     text-align: justify;
 }
 footer {
-  line-height: 50px;
+  line-height: 25px;
   position: fixed;
   background: rgba(28, 32, 36, 1);
   bottom:0px;
-  width: 100%;
+  width: 50%;
   margin-left: 0;
   margin-right: 0;
-  height: 100px;
+  height: 50px;
   text-align: center;
 }
 
