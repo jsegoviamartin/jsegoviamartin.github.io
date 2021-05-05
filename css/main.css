@@ -6,9 +6,9 @@ body {
 } */
 
 body, html {
-      width: 95%;
-      height: 95%;
-      margin-bottom: 120px;
+      width: 75%;
+      height: 75%;
+      margin-bottom: 50px;
 }
 
 .container {
