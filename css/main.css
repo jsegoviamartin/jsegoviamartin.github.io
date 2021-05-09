@@ -9,12 +9,14 @@ body, html {
       width: 95%;
       height: 95%;
       margin-bottom: 120px;
+      margin-left: 50px;
+      margin-right: 100px;
 }
 
 .container {
       width: 95%;
       height: 95%;
-      margin: 100px auto;
+      margin: 60px auto;
       text-align: center;
       padding-bottom: 50px;
 }
