@@ -11,9 +11,6 @@ date: 2021-05-09
 
 **Democracy vs. elites... an issue that has been part of the political debate since ancient times. From Plato's Republic to the structuring of the United Nations, to the workers' struggles at the beginning of the 20th century and May 1968. The question of how democracy can create good governments is maybe one of the problems with the greatest social and political consequences. Perhaps one of the most widely used arguments against democratic reason is that of the ignorance of the voters, but can a group of "average citizens" make intelligent decisions collectively?**
 
-
-## <img src="https://i.imgur.com/9Gd255e.png" alt="Paris" class="center" title="Image by i.imgut.com via https://i.imgur.com/9Gd255e.png">
-
 ## An old problem rooted in the classics…
 
 In book VI of Plato's Republic, the Greek philosopher addresses the question of who should govern the State by using what would happen with different decision systems as an analogy for choosing the captain of a ship. Namely, if the strongest of the sailors demands to be the master and imposes their law, we would be facing a Tyranny. However, not because of such condition will he know better the methods of navigation. If it is the richest who drives, we would have a Plutocracy. But neither would successful sailing be guaranteed because knowledge is a more useful tool than money when it comes to finding our way in an unfamiliar place. And if it were a popularly elected majority, that is, a Democracy, it would not be that ship that necessarily arrived at the best port either, because the masses may be full of ignorants. It is a government of wise people that would give the best results according to the Greek philosopher, a system known as Sophocracy. They are the ones who know the way and the techniques of navigation best. Today, this decision-making system is called Technocracy, the government of the technicians, the most skilled.
