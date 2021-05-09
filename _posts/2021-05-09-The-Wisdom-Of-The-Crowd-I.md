@@ -4,8 +4,6 @@ title: "The wisdom of the crowd (I): Can Democracy Trump Elites?"
 date: 2021-05-09
 ---
 
-The wisdom of the crowd (I): Can Democracy Trump Elites?
-
 <center>Reading time: 8 min.</center>
 <center>Keywords: decision-making; democracy; elite; diversity: ability; collective intelligence; wisdom of the crowd; cognitive science; complex systems</center>
 
@@ -13,8 +11,8 @@ The wisdom of the crowd (I): Can Democracy Trump Elites?
 
 **Democracy vs. elites... an issue that has been part of the political debate since ancient times. From Plato's Republic to the structuring of the United Nations, to the workers' struggles at the beginning of the 20th century and May 1968. The question of how democracy can create good governments is maybe one of the problems with the greatest social and political consequences. Perhaps one of the most widely used arguments against democratic reason is that of the ignorance of the voters, but can a group of "average citizens" make intelligent decisions collectively?**
 
-![](https://i.imgur.com/9Gd255e.png)
-Image by i.imgut.com via https://i.imgur.com/9Gd255e.png
+<center>![](https://i.imgur.com/9Gd255e.png)<center>
+<center>Image by i.imgut.com via https://i.imgur.com/9Gd255e.png<center>
 
 ## An old problem rooted in the classics…
 
@@ -26,9 +24,9 @@ There has always been criticism around democracy, consistently deemed inefficien
 
 A common critique of democracy is rooted in a simple psychological explanation called faulty generalisation. This fallacy consists in using one or more examples as a demonstration of a more general law.  To illustrate faulty generalisation, we´ll use an everyday example. In a bar debate about whether democracy or elites are better at making collective decisions, who hasn't ended up listening to the examples of the doctor who operates better than the masses or the pilot who drives better than the crew?
 
-In general, the well-defined problems of our daily lives come to mind more easily, we are more likely to think of them as concrete examples, and they are used more frequently to discuss whether or not democracy is a good system of decision-making. Therefore, everyday examples which usually favor technocracies present themselves more easily, and are used to generalise to other issues that might not be as well-explained by said system. For this very reason, the question of whether democracy is better than an elite decision-making system almost always [revolves around the kind of examples that favour technocratic decision-making](https://https://tomstafford.substack.com/p/democratic-reason).
+In general, the well-defined problems of our daily lives come to mind more easily, we are more likely to think of them as concrete examples, and they are used more frequently to discuss whether or not democracy is a good system of decision-making. Therefore, everyday examples which usually favor technocracies present themselves more easily, and are used to generalise to other issues that might not be as well-explained by said system. For this very reason, the question of whether democracy is better than an elite decision-making system almost always [revolves around the kind of examples that favour technocratic decision-making](https://tomstafford.substack.com/p/democratic-reason).
 
-**In general, the well-defined problems of our daily lives come to mind more easily, we are more likely to think of them as concrete examples, and they are used more frequently to discuss whether or not democracy is a good system of decision-making. Since well-defined problems are usually well known and well studied, they tend to favour a technocratic approach, which is based on technical knowledge. However, these concrete examples are often used to generalise to other issues that might not be as well-explained by said system. For this very reason, the question of whether democracy is better than an elite decision-making system very often [revolves around the kind of examples that favour technocratic decision-making](https://https://tomstafford.substack.com/p/democratic-reason).**
+In general, the well-defined problems of our daily lives come to mind more easily, we are more likely to think of them as concrete examples, and they are used more frequently to discuss whether or not democracy is a good system of decision-making. Since well-defined problems are usually well known and well studied, they tend to favour a technocratic approach, which is based on technical knowledge. However, these concrete examples are often used to generalise to other issues that might not be as well-explained by said system. For this very reason, the question of whether democracy is better than an elite decision-making system very often [revolves around the kind of examples that favour technocratic decision-making](https://tomstafford.substack.com/p/democratic-reason).
 
 But what does science have to say on this matter? What do we know today about whether the decisions of a diverse group of people are better or worse than those of the elite?
 
@@ -50,7 +48,7 @@ The lessons of what agents do in simulated worlds are limited because of the com
 
 
 
-It should be noted, however, that the concept of democracy is ambiguous and not always linked to that of diversity. If we are talking about a system where all citizens contribute to the solution of a problem, then the ideas discussed here are valid and we can conclude that in general the diversity facilitated by democracy helps to make wise decisions. If, on the other hand, we are talking about a system where government representatives are appointed, then the group of elected rulers will not necessarily be diverse. In the latter case, there are also other problems, such as the so-called Arrow's impossibility theorem, which states that it is not possible to design a voting system with more than two alternatives that simultaneously fulfils a number of rational and democratic criteria. This problem, however, will be discussed in our **next blog post**. For now, we are left with the idea that, contrary to what everyday examples might suggest, when the framework of the problem is not well known, diversity can trump ability.
+It should be noted, however, that the concept of democracy is ambiguous and not always linked to that of diversity. If we are talking about a system where all citizens contribute to the solution of a problem, then the ideas discussed here are valid and we can conclude that in general the diversity facilitated by democracy helps to make wise decisions. If, on the other hand, we are talking about a system where government representatives are appointed, then the group of elected rulers will not necessarily be diverse. In the latter case, there are also other problems, such as the so-called Arrow's impossibility theorem, which states that it is not possible to design a voting system with more than two alternatives that simultaneously fulfils a number of rational and democratic criteria. This problem, however, will be discussed in my **next blog post**. For now, we are left with the idea that, contrary to what everyday examples might suggest, when the framework of the problem is not well known, diversity can trump ability.
 
 ## Acknowledgment:
 
@@ -65,3 +63,11 @@ Singer, D. J. (2019). Diversity, not randomness, trumps ability. Philosophy of S
 Thompson, A. (2014). Does diversity trump ability?. Notices of the AMS, 61(9), 1-24.
 
 Stafford, T. "Democratic Reason". *Reasonable People*. Sep 1, 2020. https://tomstafford.substack.com/p/democratic-reason
+
+<br>
+<br><br>
+<br><br>
+<br><br>
+<br><br>
+<br><br>
+<br>
