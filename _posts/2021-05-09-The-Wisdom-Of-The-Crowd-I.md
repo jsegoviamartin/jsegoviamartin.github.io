@@ -11,8 +11,13 @@ date: 2021-05-09
 
 **Democracy vs. elites... an issue that has been part of the political debate since ancient times. From Plato's Republic to the structuring of the United Nations, to the workers' struggles at the beginning of the 20th century and May 1968. The question of how democracy can create good governments is maybe one of the problems with the greatest social and political consequences. Perhaps one of the most widely used arguments against democratic reason is that of the ignorance of the voters, but can a group of "average citizens" make intelligent decisions collectively?**
 
-<center>![](https://i.imgur.com/9Gd255e.png)
-Image by i.imgut.com via https://i.imgur.com/9Gd255e.png<center>
+<p class="aligncenter">
+    <img alt="Credit: Flickr user johndoe" title="Credit: Flickr user johndoe" src="https://i.imgur.com/9Gd255e.png" />
+</p>
+
+
+![](https://i.imgur.com/9Gd255e.png)
+Image by i.imgut.com via https://i.imgur.com/9Gd255e.png
 
 ## An old problem rooted in the classics…
 
