@@ -29,9 +29,9 @@ Education
 
 Sept. 2017 – Jul. 2020	\
 PhD in Cognitive Science (University of Barcelona). \
-Supervisors: Mónica Tamariz (Heriot-Watt University) & Sergio Balari (Univeristat Autònoma de Barcelona). \ 
-* Thesis title: Cognitive and social constraints on the evolution of culturally transmitted variants: Models, experiments and theory.\
-* Honors: cum laude \
+Supervisors: Mónica Tamariz (Heriot-Watt University) & Sergio Balari (Univeristat Autònoma de Barcelona).  
+* Thesis title: Cognitive and social constraints on the evolution of culturally transmitted variants: Models, experiments and theory.
+* Honors: cum laude  
 * Awards: International doctoral research component
 
 <!-- 2022 – in progress.	MSc. Computational and Mathematical Engineering (Universitat Oberta
@@ -49,7 +49,7 @@ Supervisors: Simon Kirby and Kenny Smith.
 Diploma in Economics. Complutense University of Madrid (UCM).
 
 2014 - 2015	\
-MSc in Science of Language (1st class). Spec. Computer Science. UNED.
+MSc in Science of Language (1st class). UNED.
 
 2007 – 2014	\
 BA.+ MA. in Philology. UNED.
