@@ -5,7 +5,7 @@ permalink: /teaching/
 author_profile: true
 ---
 
-Since 2021 I am teaching two autumn courses of the second year of the Master in Collective Intelligence at UM6P.
+Since 2021 I am teaching two fall courses of the second year of the Master in Collective Intelligence at UM6P.
 
 Programming, Data Science and Statistics 3 (PDSS 3)
 ======
@@ -14,9 +14,10 @@ This module covers various scientific computing techniques and is designed to eq
 <a href="https://github.com/jsegoviamartin/jsegoviamartin.github.io/blob/main/_teaching/PDSS3_SCI_syllabus_jsegoviamartin.pdf">PDSS3 Syllabus</a>
 
 
-Leadership Lab
+Decision making & Leadership Lab
 ======
-
+In this course students learn multiple theories of organizational behavior and everyday leadership and apply them to actual cases of organizational change. We also explore dynamics of individual and group decision making and the challenges of managing motivation, competing interests and emerging ethical issues an increasingly complex and changing world.
+<a href="https://github.com/jsegoviamartin/jsegoviamartin.github.io/blob/main/_teaching/LL_SCI_syllabus_jsegoviamartin.pdf">LL Syllabus</a>
 
 <!--
 <p><b>Teaching portfolio</b></p>
