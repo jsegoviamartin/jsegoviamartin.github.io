@@ -9,51 +9,42 @@ redirect_from:
 
 {% include base_path %}
 
+Current position
+======
+
+Since Oct 2021		Research & Education fellow at School of Collective Intelligence (M6 Polytechnic University).
+
+Since July 2021		Research Associate. Complex Systems Institute, Paris Île-de-France (ISC-PIF).
+
+Previous position
+======
+
+May 2020 – Jul. 2021		Postdoc researcher. French National Centre for Scientific Research (CNRS). Complex Systems Institute, Paris Île-de-France (ISC-PIF).
+
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
 
-Work experience
-======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+Sept. 2017 – Jul. 2020		PhD in Cognitive Science (University of Barcelona).
+Supervisors: Mónica Tamariz (Heriot-Watt University) & Sergio Balari (Univeristat Autònoma de Barcelona).
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-  
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+Thesis title: Cognitive and social constraints on the evolution of culturally transmitted variants: Models, experiments and theory.
 
-Publications
-======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+Honors: cum laude
+Awards: International doctoral research component
+
+<!-- 2022 – in progress.	MSc. Computational and Mathematical Engineering (Universitat Oberta
+de Catalunya). -->
+
+Oct. 2019 – Jun. 2020		PhD visiting researcher at the Laland Lab (University of St. Andrews).
+		Supervisor: Kevin Laland.
+
+Sept. 2016 – Jun. 2017	Visiting researcher at the Centre for Language Evolution (University of Edinburgh).
+Supervisors: Simon Kirby and Kenny Smith.
+
+2015 – 2016		Diploma in Economics. Complutense University of Madrid (UCM).
+
+2014 - 2015		MSc in Science of Language (1st class). Spec. Computer Science. UNED.
+
+2007 – 2014			BA.+ MA. in Philology. UNED.
+
+2000 - 2005			BSc.+ MSc. in Biology. Complutense University of Madrid (UCM).
