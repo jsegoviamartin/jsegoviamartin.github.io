@@ -12,39 +12,47 @@ redirect_from:
 Current position
 ======
 
-Since Oct 2021		Research & Education fellow at School of Collective Intelligence (M6 Polytechnic University).
+Since Oct 2021 \
+Research & Education fellow at School of Collective Intelligence (M6 Polytechnic University).
 
-Since July 2021		Research Associate. Complex Systems Institute, Paris Île-de-France (ISC-PIF).
+Since July 2021	\
+Research Associate. Complex Systems Institute, Paris Île-de-France (ISC-PIF).
 
 Previous position
 ======
 
-May 2020 – Jul. 2021		Postdoc researcher. French National Centre for Scientific Research (CNRS). Complex Systems Institute, Paris Île-de-France (ISC-PIF).
+May 2020 – Jul. 2021	\
+Postdoc researcher. French National Centre for Scientific Research (CNRS). Complex Systems Institute, Paris Île-de-France (ISC-PIF).
 
 Education
 ======
 
-Sept. 2017 – Jul. 2020		PhD in Cognitive Science (University of Barcelona).
-Supervisors: Mónica Tamariz (Heriot-Watt University) & Sergio Balari (Univeristat Autònoma de Barcelona).
-
-Thesis title: Cognitive and social constraints on the evolution of culturally transmitted variants: Models, experiments and theory.
-
-Honors: cum laude
-Awards: International doctoral research component
+Sept. 2017 – Jul. 2020	\
+PhD in Cognitive Science (University of Barcelona). \
+Supervisors: Mónica Tamariz (Heriot-Watt University) & Sergio Balari (Univeristat Autònoma de Barcelona). \ 
+* Thesis title: Cognitive and social constraints on the evolution of culturally transmitted variants: Models, experiments and theory.\
+* Honors: cum laude \
+* Awards: International doctoral research component
 
 <!-- 2022 – in progress.	MSc. Computational and Mathematical Engineering (Universitat Oberta
 de Catalunya). -->
 
-Oct. 2019 – Jun. 2020		PhD visiting researcher at the Laland Lab (University of St. Andrews).
-		Supervisor: Kevin Laland.
+Oct. 2019 – Jun. 2020		\
+PhD visiting researcher at the Laland Lab (University of St. Andrews). \
+Supervisor: Kevin Laland.
 
-Sept. 2016 – Jun. 2017	Visiting researcher at the Centre for Language Evolution (University of Edinburgh).
+Sept. 2016 – Jun. 2017	\
+Visiting researcher at the Centre for Language Evolution (University of Edinburgh). \
 Supervisors: Simon Kirby and Kenny Smith.
 
-2015 – 2016		Diploma in Economics. Complutense University of Madrid (UCM).
+2015 – 2016		\
+Diploma in Economics. Complutense University of Madrid (UCM).
 
-2014 - 2015		MSc in Science of Language (1st class). Spec. Computer Science. UNED.
+2014 - 2015	\
+MSc in Science of Language (1st class). Spec. Computer Science. UNED.
 
-2007 – 2014			BA.+ MA. in Philology. UNED.
+2007 – 2014	\
+BA.+ MA. in Philology. UNED.
 
-2000 - 2005			BSc.+ MSc. in Biology. Complutense University of Madrid (UCM).
+2000 - 2005		\
+BSc.+ MSc. in Biology. Complutense University of Madrid (UCM).
