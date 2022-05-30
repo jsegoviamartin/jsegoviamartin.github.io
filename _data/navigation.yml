@@ -16,7 +16,7 @@ main:
   #   url: /portfolio/
 
  - title: "Media"
- - url: /media/
+   url: /media/
 
   #- title: "Blog Posts"
   #  url: /year-archive/
