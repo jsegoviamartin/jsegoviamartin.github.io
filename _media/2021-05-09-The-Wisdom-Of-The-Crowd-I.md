@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: archive
 title: "The wisdom of the crowd (I): Can Democracy Trump Elites?"
 date: 2021-05-09
 ---
