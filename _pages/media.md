@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Media and impact"
+title: "Media"
 permalink: /media/
 author_profile: true
 ---
