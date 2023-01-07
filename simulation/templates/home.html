@@ -1,0 +1,27 @@
+<!-- home.html -->
+
+<html>
+  <head>
+    <title>Python Simulation</title>
+  </head>
+  <body>
+    <h1>Python Simulation</h1>
+    <form action="/run_simulation" method="post">
+      <label for="eps">Epsilon:</label><br>
+      <input type="text" id="eps" name="eps"><br>
+      <label for="t">Time steps:</label><br>
+      <input type="text" id="t" name="t"><br>
+      <label for="N">Population size:</label><br>
+      <input type="text" id="N" name="N"><br>
+      <label for="bs">Baseline consumption:</label><br>
+      <input type="text" id="bs" name="bs"><br>
+      <label for="r_t0">Initial resource pool:</label><br>
+      <input type="text" id="r_t0" name="r_t0"><br>
+      <label for="rep_rate">Resource replenishment rate:</label><br>
+      <input type="text" id="rep_rate" name="rep_rate"><br>
+      <label for="rebound">Marginal rebound:</label><br>
+      <input type="text" id="rebound" name="rebound"><br><br>
+      <input type="submit" value="Run simulation">
+    </form>
+  </body>
+</html>

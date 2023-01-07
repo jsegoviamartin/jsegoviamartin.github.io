@@ -1,0 +1,23 @@
+<!-- results.html -->
+
+<html>
+  <head>
+    <title>Simulation Results</title>
+  </head>
+  <body>
+    <h1>Simulation Results</h1>
+    <p>Epsilon: {{ eps }}</p>
+    <p>Time steps: {{ t }}</p>
+    <p>Population size: {{ N }}</p>
+    <p>Baseline consumption: {{ bs }}</p>
+    <p>Initial resource pool: {{ r_t0 }}</p>
+    <p>Resource replenishment rate: {{ rep_rate }}</p>
+    <p>Marginal rebound: {{ rebound }}</p>
+    <h2>Pop. efficiency</h2>
+    <img src="{{ pop_efficiency }}">
+    <h2>Existing resources</h2>
+    <img src="{{ existing_resources }}">
+    <h2>Mean consumption</h2>
+    <img src="{{ mean_consumption }}">
+  </body>
+</html>
