@@ -66,3 +66,6 @@ def run_simulation():
     return render_template('results.html', eps=eps, t=t, N=N, bs=bs, r_t0=r_t0, rep_rate=rep_rate, rebound=rebound,
                            pop_efficiency='pop_efficiency.png', existing_resources='existing_resources.png',
                            mean_consumption='mean_consumption.png')
+
+if __name__ == '__main__':
+    app.run()
