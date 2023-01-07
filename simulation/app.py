@@ -6,6 +6,8 @@ import matplotlib.pyplot as plt
 import string
 import random
 
+a_effic = [0, 1, 2, 3]
+
 app = Flask(__name__)
 
 @app.route('/')
@@ -14,14 +16,26 @@ def home():
 
 @app.route('/run_simulation', methods=['POST'])
 def run_simulation():
+    print('Received form data:')
+    print('eps:', eps)
+    print('t:', t)
+    print('N:', N)
+    print('bs:', bs)
+    print('r_t0:', r_t0)
+    print('rep_rate:', rep_rate)
+    print('rebound:', rebound)
     # Get simulation parameters from the form
-    eps = request.form['eps']
-    t = request.form['t']
-    N = request.form['N']
-    bs = request.form['bs']
-    r_t0 = request.form['r_t0']
-    rep_rate = request.form['rep_rate']
-    rebound = request.form['rebound']
+    eps = float(request.form['eps'])
+    t = int(request.form['t'])
+    N = int(request.form['N'])
+    bs = float(request.form['bs'])
+    r_t0 = int(request.form['r_t0'])
+    rep_rate = float(request.form['rep_rate'])
+    rebound = float(request.form['rebound'])
+
+    a_effic = [0, 1, 2, 3]  # a_effic stands for efficiency rewards. We assume an equivalence
+    # with the efficiency vector: Efficiency of acions=Rewards/10. That's it, we assume efficiencies from 0 to 0.3 in
+    # steps of 0.1.
 
     # Run the simulation
     result = scenario(a_effic[0], a_effic[1], a_effic[2], a_effic[3], eps, t, N, bs, r_t0, rep_rate, rebound)
