@@ -8,19 +8,55 @@
     <h1>Python Simulation</h1>
     <form action="/run_simulation" method="post">
       <label for="eps">Epsilon:</label><br>
-      <input type="text" id="eps" name="eps"><br>
+      <select name="eps" id="eps">
+        <option value="0">0</option>
+        <option value="0.01">0.01</option>
+        <option value="0.05">0.05</option>
+        <option value="0.1">0.1</option>
+        <option value="0.5">0.5</option>
+      </select><br>
       <label for="t">Time steps:</label><br>
-      <input type="text" id="t" name="t"><br>
+      <select name="t" id="t">
+        <option value="1000">1000</option>
+        <option value="10000">10000</option>
+      </select><br>
       <label for="N">Population size:</label><br>
-      <input type="text" id="N" name="N"><br>
+      <select name="N" id="N">
+        <option value="10">10</option>
+        <option value="100">100</option>
+        <option value="1000">1000</option>
+      </select><br>
       <label for="bs">Baseline consumption:</label><br>
-      <input type="text" id="bs" name="bs"><br>
+      <select name="bs" id="bs">
+        <option value="0.1">0.1</option>
+        <option value="0.2">0.2</option>
+        <option value="0.3">0.3</option>
+      </select><br>
       <label for="r_t0">Initial resource pool:</label><br>
-      <input type="text" id="r_t0" name="r_t0"><br>
+      <select id="r_t0" name="r_t0">
+        <option value="1000">1000</option>
+        <option value="10000">10000</option>
+      </select><br>
       <label for="rep_rate">Resource replenishment rate:</label><br>
-      <input type="text" id="rep_rate" name="rep_rate"><br>
+      <select id="rep_rate" name="rep_rate">
+        <option value="0.01">0.01</option>
+        <option value="0.001">0.001</option>
+        <option value="0.0001">0.0001</option>
+      </select><br>
       <label for="rebound">Marginal rebound:</label><br>
-      <input type="text" id="rebound" name="rebound"><br><br>
+      <select id="rebound" name="rebound">
+        <option value="0">0</option>
+        <option value="0.1">0.1</option>
+        <option value="0.2">0.2</option>
+        <option value="0.3">0.3</option>
+        <option value="0.4">0.4</option>
+        <option value="0.5">0.5</option>
+        <option value="0.6">0.6</option>
+        <option value="0.7">0.7</option>
+        <option value="0.8">0.8</option>
+        <option value="0.9">0.9</option>
+        <option value="1">1</option>
+      </select><br><br>
       <input type="submit" value="Run simulation">
     </form>
   </body>
