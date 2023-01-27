@@ -24,7 +24,7 @@ Previous positions
 May 2020 – Jul. 2021	\
 Postdoc researcher. French National Centre for Scientific Research (CNRS). Complex Systems Institute, Paris Île-de-France (ISC-PIF).
 
-Oct 2021 - Sep 2022 \
+Oct 2021 – Sep 2022 \
 Research & Education fellow at School of Collective Intelligence (M6 Polytechnic University).
 
 Education
@@ -52,11 +52,11 @@ Supervisors: Simon Kirby and Kenny Smith.
 2015 – 2016		\
 Diploma in Economics. Complutense University of Madrid (UCM).
 
-2014 - 2015	\
+2014 – 2015	\
 MSc in Science of Language (1st class). UNED.
 
 2007 – 2014	\
 BA.+ MA. in Philology. UNED.
 
-2000 - 2005		\
+2000 – 2005		\
 BSc.+ MSc. in Biology. Complutense University of Madrid (UCM).
