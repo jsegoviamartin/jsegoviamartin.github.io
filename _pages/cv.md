@@ -12,17 +12,20 @@ redirect_from:
 Current position
 ======
 
-Since Oct 2021 \
-Research & Education fellow at School of Collective Intelligence (M6 Polytechnic University).
+Since Sep 2022 \
+Assistant Professor at School of Collective Intelligence (M6 Polytechnic University).
 
 Since July 2021	\
 Research Associate. Complex Systems Institute, Paris Île-de-France (ISC-PIF).
 
-Previous position
+Previous positions
 ======
 
 May 2020 – Jul. 2021	\
 Postdoc researcher. French National Centre for Scientific Research (CNRS). Complex Systems Institute, Paris Île-de-France (ISC-PIF).
+
+Oct 2021 - Sep 2022 \
+Research & Education fellow at School of Collective Intelligence (M6 Polytechnic University).
 
 Education
 ======
@@ -34,8 +37,8 @@ Supervisors: Mónica Tamariz (Heriot-Watt University) & Sergio Balari (Univerist
 * Honors: cum laude  
 * Awards: International doctoral research component
 
-<!-- 2022 – in progress.	MSc. Computational and Mathematical Engineering (Universitat Oberta
-de Catalunya). -->
+2022 – .	MSc. Mathematics and Computational Engineering (Universitat Oberta
+de Catalunya).
 
 Oct. 2019 – Jun. 2020		\
 PhD visiting researcher at the Laland Lab (University of St. Andrews). \
