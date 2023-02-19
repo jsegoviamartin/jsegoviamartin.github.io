@@ -1,7 +1,7 @@
 ---
 permalink: /
 title: "About me"
-excerpt: "About me"
+excerpt: "Scientific work"
 author_profile: true
 redirect_from:
   - /about/
@@ -12,7 +12,7 @@ My scientific work concerns the evolution of collective behaviour. I use mathema
 
 Trajectory
 ======
-I am currently a Assistant Professor at the School of Collective Intelligence (M6 Polytechnic University) and a <a href="https://www.cnrs.fr/en">CNRS</a> Research Associate at <a href="https://iscpif.fr/">Complex Systems Institute of Paris Ile-de-France (ISC-PIF)</a>, where I also was postdoc researcher. Previously, I completed my PhD in Cognitive Science and Language at the <a href="https://www.uab.cat/en/">Universitat Autònoma de Barcelona</a>. A significant part of my research was developed during researchs visits to the <a href="http://www.lel.ed.ac.uk/cle/">Centre for Language Evolution</a> <a href="https://www.ed.ac.uk/">(University of Edinburgh)</a> and <a href="https://lalandlab.st-andrews.ac.uk/">the Laland Lab</a> <a href="https://www.st-andrews.ac.uk/">(University of St.Andrews)</a>. <a href="https://jsegoviamartin.github.io/cv/">More here</a>.
+I am currently an Assistant Professor at the School of Collective Intelligence (M6 Polytechnic University) and a <a href="https://www.cnrs.fr/en">CNRS</a> Research Associate at <a href="https://iscpif.fr/">Complex Systems Institute of Paris Ile-de-France (ISC-PIF)</a>, where I also was postdoc researcher. Previously, I completed my PhD in Cognitive Science and Language at the <a href="https://www.uab.cat/en/">Universitat Autònoma de Barcelona</a>. A significant part of my research was developed during researchs visits to the <a href="http://www.lel.ed.ac.uk/cle/">Centre for Language Evolution</a> <a href="https://www.ed.ac.uk/">(University of Edinburgh)</a> and <a href="https://lalandlab.st-andrews.ac.uk/">the Laland Lab</a> <a href="https://www.st-andrews.ac.uk/">(University of St.Andrews)</a>. <a href="https://jsegoviamartin.github.io/cv/">More here</a>.
 
 <!--
 <head>
