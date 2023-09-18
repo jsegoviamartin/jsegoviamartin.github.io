@@ -5,7 +5,7 @@ permalink: /publications/
 author_profile: true
 ---
 
-Segovia-Martín, J., Creutzig, F., & Winters, J. (2023). Efficiency traps beyond the Climate Crisis: Exploration-exploitation tradeoffs and rebound effects. <i>Philosophical Transactions of the Royal Society B.</i> DOI:10.1098/rstb.2022.0405
+Segovia-Martín, J., Creutzig, F., & Winters, J. (2023). Efficiency traps beyond the Climate Crisis: Exploration-exploitation tradeoffs and rebound effects. <i>Philosophical Transactions of the Royal Society B.</i> <a href= "https://royalsocietypublishing.org/doi/10.1098/rstb.2022.0405">https://royalsocietypublishing.org/doi/10.1098/rstb.2022.0405</a>
 
 Segovia-Martin, J. preprint 2022. Modelling the dynamics of cross-border ideological competition. ArXiv. Subjects: Dynamical Systems (math.DS). <a href= "https://arxiv.org/abs/2205.06010">https://arxiv.org/abs/2205.06010</a>
 
