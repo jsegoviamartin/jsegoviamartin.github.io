@@ -5,21 +5,21 @@ permalink: /publications/
 author_profile: true
 ---
 
-Segovia-Martín, J., Creutzig, F., & Winters, J. (2023). Efficiency traps beyond the Climate Crisis: Exploration-exploitation tradeoffs and rebound effects. <i>Philosophical Transactions of the Royal Society B.</i> <a href= "https://royalsocietypublishing.org/doi/10.1098/rstb.2022.0405">https://royalsocietypublishing.org/doi/10.1098/rstb.2022.0405</a>
+Segovia-Martin, J., Creutzig, F., & Winters, J. (2023). Efficiency traps beyond the Climate Crisis: Exploration-exploitation tradeoffs and rebound effects. <i>Philosophical Transactions of the Royal Society B.</i> <a href= "https://royalsocietypublishing.org/doi/10.1098/rstb.2022.0405">https://royalsocietypublishing.org/doi/10.1098/rstb.2022.0405</a>
 
 Segovia-Martin, J. preprint 2022. Modelling the dynamics of cross-border ideological competition. ArXiv. Subjects: Dynamical Systems (math.DS). <a href= "https://arxiv.org/abs/2205.06010">https://arxiv.org/abs/2205.06010</a>
 
-Walker, B., Segovia Martín, J., Tamariz, M., & Fay, N. (2021). Maintenance of prior behaviour can enhance cultural selection. <i>Scientific reports, 11(1), 1-9.</i><a href= "https://www.nature.com/articles/s41598-021-99340-7">https://www.nature.com/articles/s41598-021-99340-7</a>
+Walker, B., Segovia-Martin, J., Tamariz, M., & Fay, N. (2021). Maintenance of prior behaviour can enhance cultural selection. <i>Scientific reports, 11(1), 1-9.</i><a href= "https://www.nature.com/articles/s41598-021-99340-7">https://www.nature.com/articles/s41598-021-99340-7</a>
 
-Segovia-Martín, J., & Tamariz, M. (2021). Synchronising institutions and value systems: A model of opinion dynamics mediated by proportional representation. <i>PLoS ONE</i>. <a href= "https://doi.org/10.1371/journal.pone.0257525">https://doi.org/10.1371/journal.pone.0257525</a>
+Segovia-Martin, J., & Tamariz, M. (2021). Synchronising institutions and value systems: A model of opinion dynamics mediated by proportional representation. <i>PLoS ONE</i>. <a href= "https://doi.org/10.1371/journal.pone.0257525">https://doi.org/10.1371/journal.pone.0257525</a>
 
-Segovia-Martín, J. (2021). Synchronising the emergence of institutions and value systems. <i> Proceedings of the Annual Meeting of the Cognitive Science Society, 43.</i>. <a href= "https://escholarship.org/uc/item/479666vj">https://escholarship.org/uc/item/479666vj</a>
+Segovia-Martin, J. (2021). Synchronising the emergence of institutions and value systems. <i> Proceedings of the Annual Meeting of the Cognitive Science Society, 43.</i>. <a href= "https://escholarship.org/uc/item/479666vj">https://escholarship.org/uc/item/479666vj</a>
 
-Segovia-Martín, J., & Tamariz, M. (2021, April 14). Synchronising institutions and value systems: a model of opinion dynamics mediated by proportional representation. <a href= "https://osf.io/preprints/socarxiv/546uy/">https://osf.io/preprints/socarxiv/546uy/</a>
+Segovia-Martin, J., & Tamariz, M. (2021, April 14). Synchronising institutions and value systems: a model of opinion dynamics mediated by proportional representation. <a href= "https://osf.io/preprints/socarxiv/546uy/">https://osf.io/preprints/socarxiv/546uy/</a>
 
-Segovia-Martín,  J.,  Walker,  B.,  Fay,  N.,  &  Tamariz,  M. (2020). Network connectivity dynamics, cognitive biases and the evolution of cultural diversity in round-robin interactive micro-societies.<i>Cognitive Science</i>. <a href= "https://doi.org/10.1111/cogs.12852">https://doi.org/10.1111/cogs.12852</a>
+Segovia-Martin,  J.,  Walker,  B.,  Fay,  N.,  &  Tamariz,  M. (2020). Network connectivity dynamics, cognitive biases and the evolution of cultural diversity in round-robin interactive micro-societies.<i>Cognitive Science</i>. <a href= "https://doi.org/10.1111/cogs.12852">https://doi.org/10.1111/cogs.12852</a>
 
-Segovia-Martín, J., & Tamariz, M. (2020). Testing early and late connectivity dynamics in the lab: an experiment using 4-agent micro-societies.<i>PsyArXiv</i><a href= "https://psyarxiv.com/nuf78/">https://psyarxiv.com/nuf78/</a>
+Segovia-Martin, J., & Tamariz, M. (2020). Testing early and late connectivity dynamics in the lab: an experiment using 4-agent micro-societies.<i>PsyArXiv</i><a href= "https://psyarxiv.com/nuf78/">https://psyarxiv.com/nuf78/</a>
 
 Seán G Roberts, Anton Killin, Angarika Deb, Catherine Sheard, Simon J Greenhill, Kaius Sinnemäki, Jose Segovia-Martin, Jonas Nölle, Aleksandrs Berdicevskis, Archie Humphreys-Balkwill, Hannah Little, Christopher Opie, Guillaume Jacques, Lindell Bromham, Peeter Tinits, Robert M Ross, Sean Lee, Emily Gasser, Jasmine Calladine, Matthew Spike, Stephen Francis Mann, Olena Shcherbakova, Ruth Singer, Shuya Zhang, Antonio Benítez-Burraco, Christian Kliesch, Ewan Thomas-Colquhoun, Hedvig Skirgård, Monica Tamariz, Sam Passmore, Thomas Pellard, Fiona Jordan. (2020). CHIELD: the causal hypotheses in evolutionary linguistics database, <i>Journal of Language Evolution</i> lzaa001, <a href= "https://doi.org/10.1093/jole/lzaa001">https://doi.org/10.1093/jole/lzaa001</a>
 
