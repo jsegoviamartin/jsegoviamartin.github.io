@@ -15,6 +15,8 @@ Current position
 Since Sep 2022 \
 Assistant Professor at School of Collective Intelligence (M6 Polytechnic University).
 
+* 2023. Visiting researcher at School of Psychological Science, The University of Western Australia
+
 Since July 2021	\
 Research Associate. Complex Systems Institute, Paris Île-de-France (ISC-PIF).
 
