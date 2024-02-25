@@ -8,7 +8,18 @@ redirect_from:
   - /about.html
 ---
 
-My scientific work concerns the evolution of collective behaviour. I use mathematical and computational models, as well as experiments and data science, to study the interaction between cognition, behaviour and social organisation. My scope covers behavioural and social sciences, environmental economics, cultural evolution, and complex systems. Key areas of my study include understanding the influence of individual behaviour and societal structures on climate change and sustainability, how social conventions emerge in the presence and absence of institutions, how structural incentives in academia lead to the selection of bad science, the relationship between inequality and language shift or chaos theory applied to social systems. Modelling, in combination with empirical verification and validation, provides a method to explore possible ways of estimating the economic and social trade-offs involved in preserving cultural diversity, addressing inequalities and improving governance.
+My scientific work concerns the evolution of collective behavior. The overarching theme of my research is the unintended and adverse consequences of systemic incentives in environmental sustainability, social dynamics, and knowledge production.
+
+I use computational and mathematical modelling, experiments and data science to critically examine how mechanisms intended to drive progress, efficiency, and dissemination of knowledge can paradoxically contribute to outcomes that undermine these very goals. Key areas of my study include understanding how, when and why:
+
+•	efficiency can lead to resource depletion and climate change, \
+•	structural incentives can lead to the selection of bad science, \
+•	maintenance can lead to better adaptation than innovation, \
+•	social conventions can emerge in the presence and absence of institutions, \
+•	inequality can lead to language shift, \
+•	minority ideas can thrive in a society, 
+
+Modelling, in combination with empirical verification and validation, provides a method to explore possible ways of estimating the economic and social trade-offs involved in preserving our environment, addressing inequalities and improving governance.
 
 Trajectory
 ======
