@@ -1,0 +1,89 @@
+<!DOCTYPE html>
+<html>
+<head>
+<script src="https://cdn.plot.ly/plotly-latest.min.js"></script>
+<title>Simulation Results</title>
+    <h1>Your input values</h1>
+    <table>
+    <tr>
+        <th>Variable</th>
+        <th>Value</th>
+    </tr>
+    <tr>
+        <td>Epsilon (probability to explore)</td>
+        <td>{{ data['eps'] }}</td>
+    </tr>
+    <tr>
+        <td>Time steps</td>
+        <td>{{ data['t'] }}</td>
+    </tr>
+    <tr>
+        <td>Population size</td>
+        <td>{{ data['N'] }}</td>
+    </tr>
+    <tr>
+        <td>Baseline consumption</td>
+        <td>{{ data['bs'] }}</td>
+    </tr>
+    <tr>
+        <td>Initial resources (in units)</td>
+        <td>{{ data['r_t0'] }}</td>
+    </tr>
+    <tr>
+        <td>Replenishment rate</td>
+        <td>{{ data['rep_rate'] }}</td>
+    </tr>
+    <tr>
+        <td>Rebound effect</td>
+        <td>{{ data['rebound'] }}</td>
+    </tr>
+    <tr>
+        <td>Substitution effect 1</td>
+        <td>{{ data['se_1'] }}</td>
+    </tr>
+    <tr>
+        <td>Substitution effect 2</td>
+        <td>{{ data['se_2'] }}</td>
+    </tr>
+</table>
+<style>
+table {
+    font-family: arial, sans-serif;
+    border-collapse: collapse;
+    width: 100%;
+}
+
+td, th {
+    border: 1px solid #dddddd;
+    text-align: left;
+    padding: 8px;
+}
+
+th {
+    background-color: #9E9E9E;
+    color: white;
+}
+
+tr:nth-child(even) {
+    background-color: #f2f2f2;
+}
+</style>
+</head>
+
+
+<body>
+<h1>Direct rebound effect within the primary resource domain</h1>
+<div id="pop_efficiency"></div>
+<div id="existing_resources"></div>
+<div id="mean_consumption"></div>
+<h1>Indirect rebound effects across 3 consecutive resource domains</h1>
+<div id="indirect_rebound"></div>
+<script>
+    var data = {{ data|tojson|safe }};
+    Plotly.newPlot('pop_efficiency', JSON.parse(data.pop_efficiency))
+    Plotly.newPlot('existing_resources', JSON.parse(data.existing_resources))
+    Plotly.newPlot('mean_consumption', JSON.parse(data.mean_consumption))
+    Plotly.newPlot('indirect_rebound', JSON.parse(data.indirect_rebound))
+</script>
+</body>
+</html>
