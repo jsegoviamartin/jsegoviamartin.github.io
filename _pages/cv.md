@@ -15,7 +15,7 @@ Current position
 Since Sep 2022  \
 Assistant Professor at School of Collective Intelligence (M6 Polytechnic University)  \
    * Professional appointments:  \
-      * 2024 - University of California, Merced, as Visiting Scholar. Mentored by Professor Paul Smaldino  \
+      * 2024 - University of California, Merced, as Visiting Scholar. Mentored by Professor Paul Smaldino.  \
       * 2023 - The University of Western Australia, as Visiting Scholar. Mentored by Professor Nicolas Fay.
 
 Since July 2021	 \
