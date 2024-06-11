@@ -7,7 +7,7 @@ author_profile: true
 
 Segovia-Martin J, Rivero Ó (2024) Cross-border political competition. PLoS ONE 19(5): e0297731. <a href= "https://doi.org/10.1371/journal.pone.0297731">https://doi.org/10.1371/journal.pone.0297731</a>
 
-Nichols R, Charbonneau M, Chellappoo A, et al. Cultural evolution: A review of theoretical challenges. Evolutionary Human Sciences. 2024;6:e12. <a href= "doi:10.1017/ehs.2024.2">https://www.cambridge.org/core/journals/evolutionary-human-sciences/article/cultural-evolution-a-review-of-theoretical-challenges/F1DAA0367EBB4F7866F9B624DB2D9BEA</a>
+Nichols R, Charbonneau M, ... , Segovia-Martin, J. Cultural evolution: A review of theoretical challenges. Evolutionary Human Sciences. 2024;6:e12. <a href= "doi:10.1017/ehs.2024.2">https://www.cambridge.org/core/journals/evolutionary-human-sciences/article/cultural-evolution-a-review-of-theoretical-challenges/F1DAA0367EBB4F7866F9B624DB2D9BEA</a>
 
 Segovia-Martin, J., Creutzig, F., & Winters, J. (2023). Efficiency traps beyond the Climate Crisis: Exploration-exploitation tradeoffs and rebound effects. <i>Philosophical Transactions of the Royal Society B.</i> <a href= "https://royalsocietypublishing.org/doi/10.1098/rstb.2022.0405">https://royalsocietypublishing.org/doi/10.1098/rstb.2022.0405</a>
 
