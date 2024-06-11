@@ -5,6 +5,9 @@ permalink: /media/
 author_profile: true
 ---
 
+2024 \
+<a href="https://www.eurekalert.org/news-releases/1045756">Ideas that cross international borders may have powerful impact on elections. EurekAlert | AAAS. NEWS RELEASE 29-MAY-2024.</a>
+
 2021	\
 <a href="https://iscpif.fr/2021/04/la-democratie-gouverne-t-elle-mieux-que-les-elites/">La Démocratie gouverne-t-elle mieux que les élites?. les Mémos de l’ISC-PIF.</a>
 
