@@ -5,6 +5,8 @@ permalink: /publications/
 author_profile: true
 ---
 
+Segovia-Martin J, Rivero Ó (2024) Cross-border political competition. PLoS ONE 19(5): e0297731. <a href= "https://doi.org/10.1371/journal.pone.0297731</a>
+
 Segovia-Martin, J., Creutzig, F., & Winters, J. (2023). Efficiency traps beyond the Climate Crisis: Exploration-exploitation tradeoffs and rebound effects. <i>Philosophical Transactions of the Royal Society B.</i> <a href= "https://royalsocietypublishing.org/doi/10.1098/rstb.2022.0405">https://royalsocietypublishing.org/doi/10.1098/rstb.2022.0405</a>
 
 Segovia-Martin, J. preprint 2022. Modelling the dynamics of cross-border ideological competition. ArXiv. Subjects: Dynamical Systems (math.DS). <a href= "https://arxiv.org/abs/2205.06010">https://arxiv.org/abs/2205.06010</a>
