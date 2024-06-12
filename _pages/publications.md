@@ -5,7 +5,7 @@ permalink: /publications/
 author_profile: true
 ---
 
-Segovia-Martin J, Rivero Ó (2024) Cross-border political competition. PLoS ONE 19(5): e0297731. <a href= "https://doi.org/10.1371/journal.pone.0297731">https://doi.org/10.1371/journal.pone.0297731</a>
+Segovia-Martin J, Rivero Ó (2024). Cross-border political competition. PLoS ONE 19(5): e0297731. <a href= "https://doi.org/10.1371/journal.pone.0297731">https://doi.org/10.1371/journal.pone.0297731</a>
 
 Nichols R, Charbonneau M, ... , Segovia-Martin, J. Cultural evolution: A review of theoretical challenges. Evolutionary Human Sciences. 2024;6:e12. <a href= "https://www.cambridge.org/core/journals/evolutionary-human-sciences/article/cultural-evolution-a-review-of-theoretical-challenges/F1DAA0367EBB4F7866F9B624DB2D9BEA">doi:10.1017/ehs.2024.2</a>
 
@@ -37,6 +37,9 @@ Segovia Martín, J. (2018). Percepción del lenguaje político en Twitter. Revis
 
 Conferences
 ======
+
+Segovia-Martin, J (2024) Exploring solutions to the tragedy of the commons: efficiency traps and emissions cuts. <i>Collective Intelligence: forms, functions and evolution across species, societies, and industries.</i> 15 - 16 May 2024. Rabat. <a href= "Program">https://sci.um6p.ma/wp-content/uploads/2024/05/CI_conference_2024_may.pdf</a>
+
 Segovia-Martín, J. (2021). Synchronising the emergence of institutions and value systems. <i> Annual Meeting of the Cognitive Science Society, 43.</i>. <a href= "https://escholarship.org/uc/item/479666vj">https://escholarship.org/uc/item/479666vj</a>
 
 Segovia Martin, J & Tamariz, M. (2020). 	The co-evolution of value systems and political institutions: a micro-scale model of dissemination of culture [abstract]. Accepted for a talk at EVOLANG XIII. 14-17 April. Brussels (Belgium)  <a href="https://github.com/jsegoviamartin/jsegoviamartin.github.io/blob/master/Abstract_EvolangXIII_Segovia.pdf" download="Abstract_EvolangXIII_Segovia.pdf">Download the pdf</a>
