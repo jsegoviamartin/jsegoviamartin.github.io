@@ -38,7 +38,7 @@ Segovia Martín, J. (2018). Percepción del lenguaje político en Twitter. Revis
 Conferences
 ======
 
-Segovia-Martin, J (2024) Exploring solutions to the tragedy of the commons: efficiency traps and emissions cuts. <i>Collective Intelligence: forms, functions and evolution across species, societies, and industries.</i> 15 - 16 May 2024. Rabat. <a href= "Program">https://sci.um6p.ma/wp-content/uploads/2024/05/CI_conference_2024_may.pdf</a>
+Segovia-Martin, J (2024). Exploring solutions to the tragedy of the commons: efficiency traps and emissions cuts. <i>Collective Intelligence: forms, functions and evolution across species, societies, and industries.</i> 15 - 16 May 2024. Rabat. <a href= "https://sci.um6p.ma/wp-content/uploads/2024/05/CI_conference_2024_may.pdf">Program</a>
 
 Segovia-Martín, J. (2021). Synchronising the emergence of institutions and value systems. <i> Annual Meeting of the Cognitive Science Society, 43.</i>. <a href= "https://escholarship.org/uc/item/479666vj">https://escholarship.org/uc/item/479666vj</a>
 
