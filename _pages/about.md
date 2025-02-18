@@ -9,11 +9,11 @@ redirect_from:
 ---
 My scientific work concerns complex systems and the evolution of collective behavior, with a focus on how systemic incentives shape social dynamics, knowledge production and environmental sustainability. Using computational and mathematical modeling, experiments, and data science, I investigate how mechanisms designed to drive progress, efficiency, and knowledge dissemination can be optimised to achieve their intended goals while mitigating unintended consequences. Key areas of my study include understanding how, when, and why:
 
-• Efficiency leads to resource depletion,
-• Structural incentives lead to the selection of bad science,
-• Maintenance leads to better adaptation than innovation,
-• Social conventions and cooperation emerge in the presence and absence of institutions,
-• Inequality leads to language shift,
+• Efficiency leads to resource depletion, \
+• Structural incentives lead to the selection of bad science, \
+• Maintenance leads to better adaptation than innovation, \
+• Social conventions and cooperation emerge in the presence and absence of institutions, \
+• Inequality leads to language shift, \
 • Minority ideas thrive in a society.
 
 Trajectory
