@@ -7,19 +7,14 @@ redirect_from:
   - /about/
   - /about.html
 ---
+My scientific work concerns complex systems and the evolution of collective behavior, with a focus on how systemic incentives shape social dynamics, knowledge production and environmental sustainability. Using computational and mathematical modeling, experiments, and data science, I investigate how mechanisms designed to drive progress, efficiency, and knowledge dissemination can be optimised to achieve their intended goals while mitigating unintended consequences. Key areas of my study include understanding how, when, and why:
 
-My scientific work concerns complex systems and the evolution of collective behavior. The overarching theme of my research is the unintended and adverse consequences of systemic incentives in environmental sustainability, social dynamics, and knowledge production.
-
-I use computational and mathematical modelling, experiments and data science to critically examine how mechanisms intended to drive progress, efficiency, and dissemination of knowledge can paradoxically contribute to outcomes that undermine these very goals. Key areas of my study include understanding how, when and why:
-
-•	efficiency can lead to resource depletion and climate change, \
-•	structural incentives can lead to the selection of bad science, \
-•	maintenance can lead to better adaptation than innovation, \
-•	social conventions can emerge in the presence and absence of institutions, \
-•	inequality can lead to language shift, \
-•	minority ideas can thrive in a society,
-
-Modelling, in combination with empirical verification and validation, provides a method to explore possible ways of estimating the economic and social trade-offs involved in preserving our environment, addressing inequalities and improving governance.
+• Efficiency leads to resource depletion,
+• Structural incentives lead to the selection of bad science,
+• Maintenance leads to better adaptation than innovation,
+• Social conventions and cooperation emerge in the presence and absence of institutions,
+• Inequality leads to language shift,
+• Minority ideas thrive in a society.
 
 Trajectory
 ======
