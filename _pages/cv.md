@@ -42,7 +42,7 @@ Supervisors: Mónica Tamariz (Heriot-Watt University) & Sergio Balari (Univerist
 
 Sept. 2023 – Sept.2025 \
 MSc. Mathematics and Computational Engineering (Universitat Oberta
-de Catalunya).
+de Catalunya & Universitat Rovira i Virgili).
 
 Oct. 2019 – Jun. 2020		\
 PhD visiting researcher at the Laland Lab (University of St. Andrews). \
