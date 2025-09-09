@@ -82,10 +82,16 @@ analytics:
 author:
   name             : "JSMartin"
   avatar           : "profile.png"
+  education        :
+    - "Ph.D., Cognitive Science"
+    - "MSc, Mathematics and Computational Engineering"
+    - "MSc, Science of Language"
+    - "BSc, Biology"
   bio              : "Complex systems, Computational Social Science, Mathematical modelling"
   #location         : "Edinburgh, Paris, Madrid, Rabat"
+  lab              : "http://www.socialinteractionlab.org/"
   employer         :
-  pubmed           : "https://pubmed.ncbi.nlm.nih.gov/?term=Segovia+Mart%C3%ADn+J&cauthor_id=34615959"
+  pubmed           :
   googlescholar    : "https://scholar.google.com/citations?user=jWCs2W0AAAAJ&hl=en"
   email            : jisigmami@gmail.com
   researchgate     : "https://www.researchgate.net/profile/Jose-Segovia-Martin"
