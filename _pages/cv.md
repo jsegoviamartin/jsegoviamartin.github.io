@@ -40,7 +40,7 @@ Supervisors: Mónica Tamariz (Heriot-Watt University) & Sergio Balari (Univerist
 * Honors: cum laude  
 * Awards: International doctoral research component
 
-2022 – .	\
+Sept. 2023 – Sept.2025 \
 MSc. Mathematics and Computational Engineering (Universitat Oberta
 de Catalunya).
 
