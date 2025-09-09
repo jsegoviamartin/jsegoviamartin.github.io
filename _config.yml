@@ -82,14 +82,15 @@ analytics:
 author:
   name             : "JSMartin"
   avatar           : "profile.png"
-  education        :
+  bio              :
     - "Ph.D., Cognitive Science"
     - "MSc, Mathematics and Computational Engineering"
     - "MSc, Science of Language"
     - "BSc, Biology"
-  bio              : "Complex systems, Computational Social Science, Mathematical modelling"
+
+    "Complex systems, Computational Social Science, Mathematical modelling"
   #location         : "Edinburgh, Paris, Madrid, Rabat"
-  lab              : "http://www.socialinteractionlab.org/"
+
   employer         :
   pubmed           :
   googlescholar    : "https://scholar.google.com/citations?user=jWCs2W0AAAAJ&hl=en"
