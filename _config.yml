@@ -82,11 +82,11 @@ analytics:
 author:
   name             : "JSMartin"
   avatar           : "profile.png"
-  bio              : "Ph.D. in Cognitive Science; MSc in Mathematics & Computational Engineering and Science of Language; BSc in Biology."
+  bio              : "Ph.D. in Cognitive Science \nMSc in Mathematics & Computational Engineering \nMSc, Science of Language \nBSc in Biology."
 
   #location         : "Edinburgh, Paris, Madrid, Rabat"
 
-  employer         : "Complex systems, Computational Social Science, Mathematical modelling"
+  # employer         : "Complex systems, Computational Social Science, Mathematical modelling"
   pubmed           :
   googlescholar    : "https://scholar.google.com/citations?user=jWCs2W0AAAAJ&hl=en"
   email            : jisigmami@gmail.com
