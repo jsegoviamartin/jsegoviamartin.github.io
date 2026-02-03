@@ -5,6 +5,10 @@ permalink: /publications/
 author_profile: true
 ---
 
+Tamariz M, Walker B, Bennett M, Segovia-Martín J, Fay N (2026) Cultural transmission of attitudes and behaviours from parents, peers and grandparents. PLoS One 21(1): e0341433. <a href= "https://doi.org/10.1371/journal.pone.0341433">https://doi.org/10.1371/journal.pone.0341433</a>
+
+Kerssies N, Segovia-Martin J, Winters J (2025) Connect-while-in-range: Modelling the impact of spatial constraints on dynamic network structures. PLOS Complex Syst 2(7): e0000051. <a href= "https://doi.org/10.1371/journal.pcsy.0000051">https://doi.org/10.1371/journal.pcsy.0000051</a>
+
 Segovia-Martin J, Rivero Ó (2024). Cross-border political competition. PLoS ONE 19(5): e0297731. <a href= "https://doi.org/10.1371/journal.pone.0297731">https://doi.org/10.1371/journal.pone.0297731</a>
 
 Nichols R, Charbonneau M, ... , Segovia-Martin, J. Cultural evolution: A review of theoretical challenges. Evolutionary Human Sciences. 2024;6:e12. <a href= "https://www.cambridge.org/core/journals/evolutionary-human-sciences/article/cultural-evolution-a-review-of-theoretical-challenges/F1DAA0367EBB4F7866F9B624DB2D9BEA">doi:10.1017/ehs.2024.2</a>
